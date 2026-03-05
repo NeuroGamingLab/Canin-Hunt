@@ -1,0 +1,6 @@
+# Web app (button to trigger search)
+flask>=3.0.0
+
+# Optional: for live web search (ddgs is the renamed duckduckgo-search; use ddgs for best results)
+ddgs>=9.0.0
+typing-extensions>=4.0.0

@@ -1,0 +1,36 @@
+{
+  "run_id": "run_20250304_001",
+  "run_date": "2025-03-04",
+  "findings": [
+    {
+      "store": "Amazon",
+      "product": "Royal Canin Canned Cat Food (various)",
+      "price": "Up to 50% off with Subscribe & Save + coupon",
+      "link": "https://www.amazon.com/s?k=Royal+Canin+canned+cat+food"
+    },
+    {
+      "store": "Premier Pet Supply",
+      "product": "Royal Canin Canned Cat Food",
+      "price": "Buy 3 Get 1 FREE (March sale, mix & match)",
+      "link": "https://premierpetsupply.com/brighton/deals/march-sale-royal-canin-canned-cat-food-buy-3-get-1-free/"
+    },
+    {
+      "store": "Pet Supermarket",
+      "product": "Royal Canin Feline Care Nutrition Weight Care Thin Slices In Gravy",
+      "price": "35% off first Autoship & Save (up to $20), 5% future orders",
+      "link": "https://www.petsupermarket.com/cat/food-treats/wet-food/royal-canin-feline-care-nutrition-weight-care-thin-slices-in-gravy-canned-cat-food-3-oz/FCM02681.html"
+    },
+    {
+      "store": "Royal Canin (direct)",
+      "product": "Indoor Adult Morsels in Gravy, others",
+      "price": "15% off first auto-ship with code SAVE15",
+      "link": "https://www.royalcanin.com/us/cats/products/retail-products/indoor-adult-morsels-in-gravy-1279"
+    },
+    {
+      "store": "Pet Ark",
+      "product": "Royal Canin Adult Instinctive Thin Slices in Gravy, 3-oz case of 24",
+      "price": "See site for current price",
+      "link": "https://petarkharlem.com/shop/royal-canin-feline-health-nutrition-adult-instinctive-thin-slices-in-gravy-canned-cat-food-3-oz-case-of-24/"
+    }
+  ]
+}

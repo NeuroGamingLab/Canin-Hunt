@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Canin-Hunt — Neuro Gaming Lab</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Space+Grotesk:wght@400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #0a0e14;
+      --bg-card: #0d1117;
+      --border: #21262d;
+      --text: #e6edf3;
+      --text-muted: #8b949e;
+      --accent: #39c5cf;
+      --accent-soft: rgba(57, 197, 207, 0.12);
+      --font-sans: "Space Grotesk", system-ui, sans-serif;
+      --font-mono: "JetBrains Mono", monospace;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-sans);
+      font-size: 16px;
+      line-height: 1.6;
+    }
+    .wrap {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 4rem;
+    }
+    .site-header {
+      text-align: center;
+      margin-bottom: 2rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .site-header .lab {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.25rem;
+    }
+    .site-header h1 {
+      font-family: var(--font-mono);
+      font-weight: 600;
+      font-size: 1.75rem;
+      letter-spacing: 0.02em;
+      margin: 0 0 0.5rem;
+      color: var(--text);
+    }
+    .site-header .tagline {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      margin: 0;
+    }
+    .run-meta {
+      font-family: var(--font-mono);
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 1rem;
+    }
+    .run-meta .run-id {
+      color: var(--accent);
+    }
+    section h2 {
+      font-family: var(--font-mono);
+      font-weight: 600;
+      font-size: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--text-muted);
+      margin: 0 0 1rem;
+    }
+    .findings {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.25rem 1.5rem;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    .card:hover {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 1px var(--accent-soft);
+    }
+    .card .store {
+      font-family: var(--font-mono);
+      font-weight: 600;
+      font-size: 0.85rem;
+      color: var(--accent);
+      margin-bottom: 0.35rem;
+    }
+    .card .product {
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+    .card .price {
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      margin-bottom: 0.75rem;
+    }
+    .card a {
+      font-family: var(--font-mono);
+      font-size: 0.8rem;
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .card a:hover { text-decoration: underline; }
+    .card .badges { margin-bottom: 0.5rem; }
+    .card .badge { display: inline-block; font-family: var(--font-mono); font-size: 0.7rem; padding: 0.2rem 0.5rem; border-radius: 4px; margin-right: 0.35rem; margin-bottom: 0.25rem; }
+    .card .badge.deal { background: var(--accent-soft); color: var(--accent); }
+    .card .badge.anomaly-low { background: rgba(63, 185, 80, 0.2); color: #3fb950; }
+    .card .badge.anomaly-high { background: rgba(248, 81, 73, 0.2); color: #f85149; }
+    .card .price-insight { font-size: 0.8rem; color: var(--accent); margin-top: 0.35rem; }
+    .loading, .error {
+      color: var(--text-muted);
+      font-style: italic;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-family: var(--font-mono);
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--bg);
+      background: var(--accent);
+      border: none;
+      border-radius: 6px;
+      padding: 0.6rem 1rem;
+      cursor: pointer;
+      margin-top: 1rem;
+      transition: opacity 0.2s, box-shadow 0.2s;
+    }
+    .btn:hover:not(:disabled) {
+      opacity: 0.9;
+      box-shadow: 0 0 0 2px var(--accent-soft);
+    }
+    .btn:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
+    .btn-msg {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      margin-top: 0.5rem;
+    }
+    .btn-msg.error { color: #f85149; }
+    .btn-msg.success { color: #3fb950; }
+    .auto-search-note {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      margin-top: 0.5rem;
+    }
+    footer {
+      margin-top: 3rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      text-align: center;
+    }
+    footer a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+    footer a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="site-header">
+      <p class="lab">Neuro Gaming Lab</p>
+      <h1>Canin-Hunt</h1>
+      <p class="tagline">Royal Canin canned cat food on sale — latest run from <code>runs/</code>, sorted by price (cheapest first).</p>
+      <p class="run-meta" id="run-meta">Loading latest run…</p>
+      <p class="auto-search-note" id="auto-search-note" aria-live="polite"></p>
+      <button type="button" class="btn" id="run-search-btn">Run another search</button>
+      <p class="btn-msg" id="btn-msg" aria-live="polite"></p>
+    </header>
+    <section>
+      <h2>Findings (cheapest first)</h2>
+      <p class="run-meta" style="margin-top:0;font-size:0.8rem;">Each card shows the price snippet from the search; <strong>≈ $X.XX</strong> appears when a dollar amount was parsed (run <code>--enrich-ml</code> to backfill more).</p>
+      <div class="findings" id="findings">
+        <p class="loading">Loading…</p>
+      </div>
+    </section>
+    <footer>
+      <a href="https://neurogaminglab.github.io/Neuro-Gaming-Lab/">Neuro Gaming Lab</a> · Canin-Hunt · Latest result from <code>runs/</code> via <code>data/findings.json</code>
+    </footer>
+  </div>
+  <script>
+    const FALLBACK = {
+      runs: [{
+        run_id: "run_20250304_001",
+        run_date: "2025-03-04",
+        findings: [
+          { store: "Pet Supermarket", product: "Royal Canin Feline Care Nutrition Weight Care Thin Slices In Gravy", price: "35% off first Autoship & Save (up to $20)", price_numeric: 20, link: "https://www.petsupermarket.com/cat/food-treats/wet-food/royal-canin-feline-care-nutrition-weight-care-thin-slices-in-gravy-canned-cat-food-3-oz/FCM02681.html" },
+          { store: "Premier Pet Supply", product: "Royal Canin Canned Cat Food", price: "Buy 3 Get 1 FREE (March sale) — ~$39 for 4", price_numeric: 39, link: "https://premierpetsupply.com/brighton/deals/march-sale-royal-canin-canned-cat-food-buy-3-get-1-free/" },
+          { store: "Royal Canin (direct)", product: "Indoor Adult Morsels in Gravy, others", price: "15% off — case from $52.56", price_numeric: 52.56, link: "https://www.royalcanin.com/us/cats/products/retail-products/indoor-adult-morsels-in-gravy-1279" },
+          { store: "Amazon", product: "Royal Canin Canned Cat Food (various)", price: "Up to 50% off with Subscribe & Save + coupon", price_numeric: null, link: "https://www.amazon.com/s?k=Royal+Canin+canned+cat+food" },
+          { store: "Pet Ark", product: "Royal Canin Adult Instinctive Thin Slices in Gravy, 3-oz case of 24", price: "See site for current price", price_numeric: null, link: "https://petarkharlem.com/shop/royal-canin-feline-health-nutrition-adult-instinctive-thin-slices-in-gravy-canned-cat-food-3-oz-case-of-24/" }
+        ]
+      }]
+    };
+
+    function sortFindings(findings) {
+      return (findings || []).slice().sort(function (a, b) {
+        var pa = a.effective_price != null ? a.effective_price : a.price_numeric;
+        var pb = b.effective_price != null ? b.effective_price : b.price_numeric;
+        if (pa == null && pb == null) return (b.deal_score || 0) - (a.deal_score || 0);
+        if (pa == null) return 1;
+        if (pb == null) return -1;
+        if (pa !== pb) return pa - pb;
+        return (b.deal_score || 0) - (a.deal_score || 0);
+      });
+    }
+
+    function render(data) {
+      const runs = data.runs || [];
+      const latest = runs[runs.length - 1];
+      const meta = document.getElementById("run-meta");
+      const container = document.getElementById("findings");
+      if (!latest || !latest.findings || !latest.findings.length) {
+        meta.textContent = "No runs yet.";
+        container.innerHTML = "<p class=\"error\">No findings. Run the search script to add data.</p>";
+        return;
+      }
+      var findings = sortFindings(latest.findings);
+      var priceLabel = "effective price / price";
+      meta.innerHTML = "Latest run: <span class=\"run-id\">" + escapeHtml(latest.run_id) + "</span> (" + escapeHtml(latest.run_date) + ") · " + latest.findings.length + " finding(s) — sorted by " + priceLabel + ", then deal score";
+      container.innerHTML = findings.map(f => {
+        var priceVal = f.effective_price != null ? f.effective_price : f.price_numeric;
+        var priceStr = priceVal != null ? " · $" + Number(priceVal).toFixed(2) : "";
+        var priceLine = escapeHtml(f.price || "See link for price");
+        if (priceVal != null) priceLine += " <strong>≈ $" + Number(priceVal).toFixed(2) + "</strong>";
+        var badges = [];
+        if (f.deal_score != null && f.deal_score >= 0.6) badges.push("<span class=\"badge deal\">Good deal</span>");
+        if (f.price_anomaly === "low") badges.push("<span class=\"badge anomaly-low\">Verify price (low)</span>");
+        if (f.price_anomaly === "high") badges.push("<span class=\"badge anomaly-high\">Verify price (high)</span>");
+        var badgeHtml = badges.length ? "<div class=\"badges\">" + badges.join("") + "</div>" : "";
+        var insightHtml = f.price_insight ? "<div class=\"price-insight\">" + escapeHtml(f.price_insight) + "</div>" : "";
+        return "<article class=\"card\">" + badgeHtml +
+          "<div class=\"store\">" + escapeHtml(f.store) + priceStr + "</div>" +
+          "<div class=\"product\">" + escapeHtml(f.product) + "</div>" +
+          "<div class=\"price\">" + priceLine + "</div>" + insightHtml +
+          "<a href=\"" + escapeHtml(f.link) + "\" target=\"_blank\" rel=\"noopener\">" + escapeHtml(f.link) + "</a>" +
+          "</article>";
+      }).join("");
+    }
+
+    function escapeHtml(s) {
+      if (!s) return "";
+      const div = document.createElement("div");
+      div.textContent = s;
+      return div.innerHTML;
+    }
+
+    function loadData() {
+      return fetch("data/findings.json")
+        .then(r => r.ok ? r.json() : Promise.reject())
+        .catch(() => FALLBACK);
+    }
+
+    function setBtnMsg(text, type) {
+      const el = document.getElementById("btn-msg");
+      el.textContent = text || "";
+      el.className = "btn-msg" + (type ? " " + type : "");
+    }
+
+    document.getElementById("run-search-btn").addEventListener("click", function () {
+      const btn = this;
+      btn.disabled = true;
+      setBtnMsg("Searching…", "");
+      fetch("/api/run-search", { method: "POST" })
+        .then(r => r.json())
+        .then(function (res) {
+          if (res.ok) {
+            setBtnMsg("Added run " + res.run_id + " (" + res.findings_count + " findings). Refreshing…", "success");
+            return loadData().then(render);
+          } else {
+            var msg = res.error || "Search failed.";
+            if (res.hint) msg += " " + res.hint;
+            setBtnMsg(msg, "error");
+          }
+        })
+        .catch(function () {
+          setBtnMsg("Open this page from the app server: run \"python app.py\" then go to http://localhost:8001", "error");
+        })
+        .finally(function () {
+          btn.disabled = false;
+        });
+    });
+
+    loadData().then(render);
+
+    fetch("/api/status").then(r => r.ok ? r.json() : {}).catch(() => ({})).then(function (s) {
+      var el = document.getElementById("auto-search-note");
+      if (s.auto_search_enabled) {
+        var hours = s.auto_search_interval_hours || "6";
+        el.textContent = "Searches run automatically every " + hours + " hour(s). Use the button to run one now.";
+      } else {
+        el.textContent = "";
+      }
+    });
+  </script>
+</body>
+</html>
