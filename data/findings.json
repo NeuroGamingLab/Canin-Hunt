@@ -710,6 +710,123 @@
           "price_insight": null
         }
       ]
+    },
+    {
+      "run_id": "run_20260305_1433",
+      "run_date": "2026-03-05",
+      "findings": [
+        {
+          "store": "See link",
+          "product": "RoyalCanin| J & J PET CLUB \u2013 J & J Pet Club",
+          "price": "RoyalCaninCannedCatFood- Mother & Babycat - Ultra Soft Mousse in Sauce.SalepriceFrom $3.59. Choose options. Quick view.C...",
+          "link": "https://jjpetclub.com/collections/royal-canin",
+          "price_numeric": 3.59,
+          "effective_price": 3.59,
+          "canonical_product": "royalcanin| j & j pet club \u2013 j & j pet club",
+          "deal_score": 1.18,
+          "price_anomaly": "low",
+          "price_insight": null
+        },
+        {
+          "store": "Amazon",
+          "product": "Amazon.com:RoyalCaninCannedCatFood",
+          "price": "RoyalCaninAdult Feline Health Nutrition Instinctive Thin Slices in GravyCannedWetCatFood, 3 ozcan(24-count).",
+          "link": "https://www.amazon.com/royal-canin-canned-cat-food/s?k=royal+canin+canned+cat+food",
+          "price_numeric": null,
+          "canonical_product": "amazon.com:royalcanincannedcatfood",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "Chewy",
+          "product": "WetCatFood- Healthiest WetCatFoodBrands | Chewy",
+          "price": "Shop Chewy for the best wetcatfoodandcannedcatfoodfrom top brands.The best wetcatfoodwill be a balanced recipe made for ...",
+          "link": "https://www.chewy.com/b/wet-food-389",
+          "price_numeric": null,
+          "canonical_product": "wetcatfood- healthiest wetcatfoodbrands | chewy",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "BuyRoyalCaninCatFoodOnline in Canada | PetMax.ca",
+          "price": "BuyRoyalCaninCatFoodOnline in Canada at everyday low prices. PetMax is family owned and operated and proudly Canadian. W...",
+          "link": "https://www.petmax.ca/collections/royal-canin-cat-food",
+          "price_numeric": null,
+          "canonical_product": "buyroyalcanincatfoodonline in canada | petmax.ca",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "RoyalCaninCannedCatFoodIntense Beauty Thin Slices in... | eBay",
+          "price": "RoyalCaninCatDryFoodOriginal Pack 4kg Hair & Skin Shinny Healthy Skin Coat.Purina Pro PlanCatFoodComplete Essentials Chu...",
+          "link": "https://www.ebay.com/p/8012039929",
+          "price_numeric": null,
+          "canonical_product": "royalcanincannedcatfoodintense beauty thin slices",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "RoyalCanin,Can, Kitten - Loaf In Sauce - 145 g - WetCatFood",
+          "price": "RoyalCaninKitten Loaf in SauceCannedCatFoodcomes in small, thin slices in gravy that are easy to feed and will provide y...",
+          "link": "https://www.renspets.com/royal-canin-can-kitten---loaf-in-sauce---145-g---wet-cat-food-132452.html",
+          "price_numeric": null,
+          "canonical_product": "royalcanin,can, kitten - loaf in sauce - 145 g - w",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "PetSmart",
+          "product": "RoyalCaninFeline Health Indoor Adult DryCatFoodNutrition",
+          "price": "Save 50% on your firstRoyalCaninAutoship order.*Autoship requires a Treats Rewards account. **FREE shipping offer not va...",
+          "link": "https://www.petsmart.com/cat/food-and-treats/dry-food/royal-canin-feline-health-indoor-adult-dry-cat-food-nutrition-1188.html",
+          "price_numeric": null,
+          "canonical_product": "royalcaninfeline health indoor adult drycatfoodnut",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "RoyalCaninCannedCat",
+          "price": "RoyalCaninFunctional Support WetCatFood6CanSampler (2) Each: Digest Sensitive, Aging 12+, Urinary Care+ MerlinsMart Zine...",
+          "link": "https://www.walmart.com/c/kp/royal-canin-canned-cat",
+          "price_numeric": null,
+          "canonical_product": "royalcanincannedcat",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "RoyalCaninSensible 33 Adult DryCatFood| Pets",
+          "price": "RoyalCaninFeline Sensible 33 DryCatFood4kg.RoyalCaninSensible 33 is highly palatable and contains three different kibble...",
+          "link": "https://www.petsathome.com/product/royal-canin-feline-sensible-33-dry-adult-cat-food/p694",
+          "price_numeric": null,
+          "canonical_product": "royalcaninsensible 33 adult drycatfood| pets",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "The 30 BestRoyalCaninCannedCatFoodof 2026 [Verified]...",
+          "price": "Here is a Top RatedRoyalCaninCannedCatFoodlist ranked by CherryPicks, Based on our unbiased evaluations of over 41,251 c...",
+          "link": "https://www.cherrypicksreviews.com/canned-cat-food/royal-canin",
+          "price_numeric": null,
+          "canonical_product": "the 30 bestroyalcanincannedcatfoodof 2026 [verifie",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        }
+      ]
     }
   ]
 }
