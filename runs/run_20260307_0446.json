@@ -1,0 +1,120 @@
+{
+  "run_id": "run_20260307_0446",
+  "run_date": "2026-03-07",
+  "findings": [
+    {
+      "store": "PetSmart",
+      "product": "Royal Canin\u00ae Cat Food & Kitten Food - PetSmart",
+      "price": "4.414K\u00b7$6.99 deliverySave 35% On Your First Autoship Order! ... Royal Canin Feline Instinctive Adult Wet Cat Food, Healt...",
+      "link": "https://www.petsmart.com/featured-brands/royal-canin/cat",
+      "price_numeric": 6.99,
+      "effective_price": 6.99,
+      "canonical_product": "royal canin\u00ae cat food & kitten food - petsmart",
+      "deal_score": 1.0,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Petco",
+      "product": "Royal Canin Wet Cat Food | Petco",
+      "price": "4.41.6K\u00b7Free delivery over $35Royal Canin Feline Health Indoor & Instinctive Adult Thin Slices in Gravy and Morsels in G...",
+      "link": "https://www.petco.com/brand/royal-canin/cat/cat-food/wet-cat-food?srsltid=AfmBOooAgi0N8njFmFt2BpPSMurFf6DhmTgIxdxEvpWkqNzpgSnhMyF_",
+      "price_numeric": 35.0,
+      "effective_price": 35.0,
+      "canonical_product": "royal canin wet cat food | petco",
+      "deal_score": 1.0,
+      "price_anomaly": null,
+      "price_insight": "Near average price"
+    },
+    {
+      "store": "Chewy",
+      "product": "Royal Canin Cat Food - Free shipping - Chewy",
+      "price": "4.8184K\u00b7Free delivery over $49Shop Chewy for low prices and the best Royal Canin Cat Food! We carry a large selection an...",
+      "link": "https://www.chewy.com/brands/royal-canin-cat-food-150806",
+      "price_numeric": 49.0,
+      "effective_price": 49.0,
+      "canonical_product": "royal canin cat food - free shipping - chewy",
+      "deal_score": 0.99,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "Royal Canin Selected Protein PR Can for Cats | MFG_327",
+      "price": "Free delivery over $4930-day returnsThis veterinary-exclusive formula is complete and balanced, highly palatable and hig...",
+      "link": "https://evanmoore.covetruspharmacy.com/product/3006525/Royal+Canin+Selected+Protein+PR+Can+for+Cats",
+      "price_numeric": 4930.0,
+      "effective_price": 4930.0,
+      "canonical_product": "royal canin selected protein pr can for cats | mfg",
+      "deal_score": 1.0,
+      "price_anomaly": null,
+      "price_insight": "Near average price"
+    },
+    {
+      "store": "Royal Canin",
+      "product": "Cat Nutritional Product Range | Royal Canin US",
+      "price": "4.3257\u00b7Free deliveryRoyal canin's adult cat food is a tailored nutritional solution designed to meet the dietary require...",
+      "link": "https://www.royalcanin.com/us/cats/products/retail-products?srsltid=AfmBOopSRa046FA-OD3yf4LLdT2FjqRqaqsavaap_rR1nL_VSTpeS6h1",
+      "price_numeric": null,
+      "canonical_product": "cat nutritional product range | royal canin us",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "Royal Canin Feline Health Nutrition Adult Instinctive Loaf in Sauce Wet ...",
+      "price": "Buy Royal Canin Feline Health Nutrition Adult Instinctive Loaf in Sauce Wet Cat Food, 3 oz (Pack of 6) at Walmart.com.",
+      "link": "https://www.walmart.com/ip/Royal-Canin-Feline-Health-Nutrition-Adult-Instinctive-Loaf-in-Sauce-Wet-Cat-Food-3-oz-Pack-of-6/509594337",
+      "price_numeric": null,
+      "canonical_product": "royal canin feline health nutrition adult instinct",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "Royal Canin Feline Selected Protein PD Loaf in Sauce Canned Cat Food",
+      "price": "Your Pet Needs Help! Are You Ready to Step Up? Buy Royal Canin Feline Selected Protein PD Loaf in Sauce Canned Cat Food ...",
+      "link": "https://www.petcarerx.com/royal-canin-feline-selected-protein-pd-loaf-in-sauce-canned-cat-food/24902?srsltid=AfmBOoor6rPR3QWlHxn9vLS2Ju6ZJtJCu5mB0nG_QDNs0rBob9wfYUCr",
+      "price_numeric": null,
+      "canonical_product": "royal canin feline selected protein pd loaf in sau",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "Shop for Royal Canin Cat Food at Tractor Supply Co.",
+      "price": "Royal Canin Feline Health Nutrition Indoor Adult Morsels in Gravy Canned Cat Food, 3 oz., 12 pk. ... Free Shipping on or...",
+      "link": "https://www.tractorsupply.com/tsc/brand/royal+canin/cat-food",
+      "price_numeric": null,
+      "canonical_product": "shop for royal canin cat food at tractor supply co",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "I can't afford Royal Canin wet food anymore. What could be ... - Reddit",
+      "price": "Jun 30, 2024\u00b7I adopted a kitten two months ago and have been feeding her Royal Canin wet food. I wish I could continue, ...",
+      "link": "https://www.reddit.com/r/catfood/comments/1ds7sf8/i_cant_afford_royal_canin_wet_food_anymore_what/",
+      "price_numeric": null,
+      "canonical_product": "i can't afford royal canin wet food anymore. what",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Royal Canin",
+      "product": "Indoor 7+ Morsels In Gravy Canned Cat Food | Royal Canin US",
+      "price": "Royal Canin Feline Health Nutrition Indoor 7+ Morsels in Gravy Can is a complete and balanced wet food specifically for ...",
+      "link": "https://www.royalcanin.com/us/cats/products/retail-products/indoor-7+-morsels-in-gravy-1307?srsltid=AfmBOoos32uoOyrnvCgvVWRASGPE-z5qDiny11MC7Hp7mFt5DBj3QXaY",
+      "price_numeric": null,
+      "canonical_product": "indoor 7+ morsels in gravy canned cat food | royal",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    }
+  ]
+}
