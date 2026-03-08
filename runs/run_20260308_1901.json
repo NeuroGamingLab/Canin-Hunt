@@ -1,0 +1,116 @@
+{
+  "run_id": "run_20260308_1901",
+  "run_date": "2026-03-08",
+  "findings": [
+    {
+      "store": "Amazon",
+      "product": "Amazon.com:RoyalCaninCannedCatFood",
+      "price": "RoyalCaninAdult Feline Health Nutrition Instinctive Thin Slices in GravyCannedWetCatFood, 3 ozcan(24-count).",
+      "link": "https://www.amazon.com/royal-canin-canned-cat-food/s?k=royal+canin+canned+cat+food",
+      "price_numeric": null,
+      "canonical_product": "amazon.com:royalcanincannedcatfood",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Chewy",
+      "product": "ROYALCANINFeline Health Nutrition Kitten Loaf in... - Chewy.com",
+      "price": "ThisRoyalCaninkittenfoodis made with digestible proteins, fiber, and prebiotics to support healthy growth and digestion....",
+      "link": "https://www.chewy.com/royal-canin-feline-health-nutrition/dp/103133",
+      "price_numeric": null,
+      "canonical_product": "royalcaninfeline health nutrition kitten loaf in..",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "RoyalCaninCannedCatFoodforsale| eBay",
+      "price": "Find great deals on eBay forRoyalCaninCannedCatFood. Shop with confidence.",
+      "link": "https://www.ebay.ca/sch/i.html?_nkw=royal+canin+canned+cat+food",
+      "price_numeric": null,
+      "canonical_product": "royalcanincannedcatfoodforsale| ebay",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "PetSmart",
+      "product": "RoyalCanin\u00ae Veterinary Diet Feline Urinary SO AdultCatMorsels In...",
+      "price": "Thiscatfoodwet formula promotes a urinary environment unfavorable to the formation of both struvite and calcium oxalate ...",
+      "link": "https://www.petsmart.com/cat/food-and-treats/veterinary-diets/royal-canin-veterinary-diet-feline-urinary-so-morsels-in-gravy-cat-food---original-5269885.html",
+      "price_numeric": null,
+      "canonical_product": "royalcanin\u00ae veterinary diet feline urinary so adul",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "BuyRoyalCaninCatFoodOnline in Canada | PetMax.ca",
+      "price": "BuyRoyalCaninCatFoodOnline in Canada at everyday low prices. PetMax is family owned and operated and proudly Canadian.",
+      "link": "https://www.petmax.ca/collections/royal-canin-cat-food",
+      "price_numeric": null,
+      "canonical_product": "buyroyalcanincatfoodonline in canada | petmax.ca",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "RoyalCanin, Feline Care Nutrition - Urinary Care - 85... - Ren's Pets",
+      "price": "ENCOURAGES HEALTHY HYDRATIONRoyalCaninurinarycatfoodhelps support a healthy urinary tract and encourages hydration in he...",
+      "link": "https://www.renspets.com/royal-canin-feline-care-nutrition---urinary-care---85-g-x-12-pk---wet-cat-food-142051.html",
+      "price_numeric": null,
+      "canonical_product": "royalcanin, feline care nutrition - urinary care -",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "RoyalCaninCannedCatFoodIntense Beauty Thin Slices in... | eBay",
+      "price": "RoyalCaninCatDryFoodOriginal Pack 4kg Hair & Skin Shinny Healthy Skin Coat.Purina Pro PlanCatFoodComplete Essentials Chu...",
+      "link": "https://www.ebay.com/p/8012039929",
+      "price_numeric": null,
+      "canonical_product": "royalcanincannedcatfoodintense beauty thin slices",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "RoyalCaninCannedCat",
+      "price": "Shop forRoyalCaninCannedCatat Walmart.com. Save money. Live better.",
+      "link": "https://www.walmart.com/c/kp/royal-canin-canned-cat",
+      "price_numeric": null,
+      "canonical_product": "royalcanincannedcat",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "RoyalCaninSensible 33 Adult DryCatFood| Pets",
+      "price": "RoyalCaninFeline Sensible 33 DryCatFood.RoyalCaninSensible 33 is highly palatable and contains three different kibble sh...",
+      "link": "https://www.petsathome.com/product/royal-canin-feline-sensible-33-dry-adult-cat-food/p694",
+      "price_numeric": null,
+      "canonical_product": "royalcaninsensible 33 adult drycatfood| pets",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "RoyalCaninCannedCatFood\u2013 Petland Canada",
+      "price": "RoyalCaninRoyalCaninAdult Instinctive Thin Slices in GravyCannedCatFoodSale.",
+      "link": "https://www.petland.ca/collections/royal-canin-canned-cat-food-85g-1",
+      "price_numeric": null,
+      "canonical_product": "royalcanincannedcatfood\u2013 petland canada",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    }
+  ]
+}
