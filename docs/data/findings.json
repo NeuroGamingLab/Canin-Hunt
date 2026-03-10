@@ -2953,6 +2953,128 @@
           "price_insight": null
         }
       ]
+    },
+    {
+      "run_id": "run_20260310_0644",
+      "run_date": "2026-03-10",
+      "findings": [
+        {
+          "store": "Petco",
+          "product": "Royal Canin Wet Cat Food | Petco",
+          "price": "4.41.6K\u00b7Free delivery over $35Royal Canin Feline Health Indoor & Instinctive Adult Thin Slices in Gravy and Morsels in G...",
+          "link": "https://www.petco.com/brand/royal-canin/cat/cat-food/wet-cat-food?srsltid=AfmBOorGiNaEDWsKfX46GGvi_u0e3HRQTFeUBGJp6CfbLJI_vus7InBN",
+          "price_numeric": 35.0,
+          "effective_price": 35.0,
+          "canonical_product": "royal canin wet cat food | petco",
+          "deal_score": 1.0,
+          "price_anomaly": null,
+          "price_insight": "Near average price"
+        },
+        {
+          "store": "See link",
+          "product": "Cat Royal Canin Veterinary Diet Online - PetCareRx.com",
+          "price": "4.17.7K\u00b7Free delivery over $48Royal Canin Feline Satiety Support Weight Management Loaf in Sauce Canned Cat Food - 5.1 o...",
+          "link": "https://www.petcarerx.com/pharmacy/royal-canin-veterinary-diet/cat?page=all",
+          "price_numeric": 48.0,
+          "effective_price": 48.0,
+          "canonical_product": "cat royal canin veterinary diet online - petcarerx",
+          "deal_score": 1.0,
+          "price_anomaly": null,
+          "price_insight": "Near average price"
+        },
+        {
+          "store": "Chewy",
+          "product": "ROYAL CANIN WET CAT FOOD (Free Shipping) - Chewy",
+          "price": "4.8179K\u00b7Free delivery over $49Shop Chewy for the best deals on Royal Canin Wet Cat Food and more with fast free shipping...",
+          "link": "https://www.chewy.com/f/royal-canin-wet-cat-food_c389_f1v468813",
+          "price_numeric": 49.0,
+          "effective_price": 49.0,
+          "canonical_product": "royal canin wet cat food (free shipping) - chewy",
+          "deal_score": 1.0,
+          "price_anomaly": null,
+          "price_insight": "Near average price"
+        },
+        {
+          "store": "See link",
+          "product": "Royal Canin\u00ae Feline Health Nutrition Indoor Adult & Adult Instinctive Wet ...",
+          "price": "Free delivery over $3530-day returnsSign up for Autoship at checkout and save up to 35% today and 5% on all future order...",
+          "link": "https://www.petsuppliesplus.com/categories/cat/food/wet-food/royal-canin-feline-health-nutrition-indoor-adult-adult-instinctive-wet-cat-food-variety-pack/31569?sku=030111754592",
+          "price_numeric": 3530.0,
+          "effective_price": 3530.0,
+          "canonical_product": "royal canin\u00ae feline health nutrition indoor adult",
+          "deal_score": 1.0,
+          "price_anomaly": null,
+          "price_insight": "Near average price"
+        },
+        {
+          "store": "See link",
+          "product": "Royal Canin Selected Protein PR Can for Cats | MFG_327",
+          "price": "Free delivery over $4930-day returnsThis veterinary-exclusive formula is complete and balanced, highly palatable and hig...",
+          "link": "https://evanmoore.covetruspharmacy.com/product/3006525/Royal+Canin+Selected+Protein+PR+Can+for+Cats",
+          "price_numeric": 4930.0,
+          "effective_price": 4930.0,
+          "canonical_product": "royal canin selected protein pr can for cats | mfg",
+          "deal_score": 1.0,
+          "price_anomaly": null,
+          "price_insight": "Near average price"
+        },
+        {
+          "store": "See link",
+          "product": "Royal Canin Cat Food - Walmart",
+          "price": "Free 90-day returnsRoyal Canin Urinary Care Cat Wet Food in Gravy 12x85g. $5399. current price $53.99. Royal Canin Urina...",
+          "link": "https://www.walmart.com/browse/pets/royal-canin-cat-food/5440_5285960_6183044_6743366",
+          "price_numeric": 5399.0,
+          "effective_price": 5399.0,
+          "canonical_product": "royal canin cat food - walmart",
+          "deal_score": 0.0,
+          "price_anomaly": null,
+          "price_insight": "Above average - consider waiting"
+        },
+        {
+          "store": "Royal Canin",
+          "product": "Cat Nutritional Product Range | Royal Canin US",
+          "price": "4.3257\u00b7Free deliveryRoyal canin's adult cat food is a tailored nutritional solution designed to meet the dietary require...",
+          "link": "https://www.royalcanin.com/us/cats/products/retail-products?srsltid=AfmBOopgiu4aAUFf0S0aCHMF7qX69Y0AgsHQajRB1s4L2SQbFXhjLzqx",
+          "price_numeric": null,
+          "canonical_product": "cat nutritional product range | royal canin us",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "PetSmart",
+          "product": "Royal Canin\u00ae Feline Health Nutrition Indoor Adult Wet Cat Food - 3 oz",
+          "price": "In stockRating4.6(246)Royal Canin\u00ae Feline Health Nutrition Adult Instinctive Wet Cat Food - Thin Slices in Gravy, 3oz. (...",
+          "link": "https://www.petsmart.com/cat/food-and-treats/wet-food/royal-canin-feline-health-nutrition-indoor-adult-wet-cat-food---3-oz-59701.html",
+          "price_numeric": null,
+          "canonical_product": "royal canin\u00ae feline health nutrition indoor adult",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "Petco",
+          "product": "Royal Canin Feline Health Nutrition Kitten Thin Slices in Gravy Canned ...",
+          "price": "In stockRating4.6(349)Royal Canin Kitten Thin Slices in Gravy canned wet food is specifically formulated for kittens up ...",
+          "link": "https://www.petco.com/shop/en/petcostore/product/royal-canin-feline-health-nutrition-kitten-thin-slices-in-gravy-canned-cat-food?srsltid=AfmBOor1ZzYl6eRatG5V6iB8msoVtQvqBV45gPQs8ujGN_Gcvmr_FlHf",
+          "price_numeric": null,
+          "canonical_product": "royal canin feline health nutrition kitten thin sl",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "Royal Canin",
+          "product": "Indoor 7+ Morsels In Gravy Canned Cat Food - Royal Canin",
+          "price": "Royal canin indoor 7+ morsels in gravy canned cat food is formulated to promote healthy aging for cats over 7 years old ...",
+          "link": "https://www.royalcanin.com/us/cats/products/retail-products/indoor-7+-morsels-in-gravy-1307?srsltid=AfmBOoq-E-U6dg94Wwh8BXiZoU7pMqLlTFRGPKfu9ws7IRr7-BV9Mw-D",
+          "price_numeric": null,
+          "canonical_product": "indoor 7+ morsels in gravy canned cat food - royal",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        }
+      ]
     }
   ]
 }
