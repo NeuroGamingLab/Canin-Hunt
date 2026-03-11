@@ -3431,6 +3431,127 @@
           "price_insight": null
         }
       ]
+    },
+    {
+      "run_id": "run_20260311_0650",
+      "run_date": "2026-03-11",
+      "findings": [
+        {
+          "store": "See link",
+          "product": "Shop All Products \u2013 tagged \"brand_Royal Canin\"",
+          "price": "30-day returnsRoyal Canin Canned Cat Food, Kitten Instinctive 3oz Can. Regular price $2.49. Regular price $0.00 Sale pri...",
+          "link": "https://shop.bensonspet.com/collections/pet/brand_royal-canin?srsltid=AfmBOoq2D-lL_KDECl1WLsIGXfwfUjv7xREEVyFQeT2iD1Ln0FL60me4",
+          "price_numeric": 2.49,
+          "effective_price": 2.49,
+          "canonical_product": "shop all products \u2013 tagged \"brand_royal canin\"",
+          "deal_score": 1.0,
+          "price_anomaly": null,
+          "price_insight": "Near average price"
+        },
+        {
+          "store": "PetSmart",
+          "product": "Royal Canin\u00ae Cat Food & Kitten Food",
+          "price": "4.414K\u00b7Free delivery over $49... Food - 3 oz. 35% off. on first Autoship order. Royal Canin\u00ae Feline Health Nutrition Ind...",
+          "link": "https://www.petsmart.com/featured-brands/royal-canin/cat",
+          "price_numeric": 49.0,
+          "effective_price": 31.85,
+          "canonical_product": "royal canin\u00ae cat food & kitten food",
+          "deal_score": 0.99,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "Petco",
+          "product": "Royal Canin Wet Cat Food | Petco",
+          "price": "4.41.6K\u00b7Free delivery over $35Royal Canin Feline Health Indoor & Instinctive Adult Thin Slices in Gravy and Morsels in G...",
+          "link": "https://www.petco.com/brand/royal-canin/cat/cat-food/wet-cat-food?srsltid=AfmBOorOgkNqokOQlFC_0Qb9v33DX8PsYs-cfS647FaIH41kuA-sVDmV",
+          "price_numeric": 35.0,
+          "effective_price": 35.0,
+          "canonical_product": "royal canin wet cat food | petco",
+          "deal_score": 1.0,
+          "price_anomaly": null,
+          "price_insight": "Near average price"
+        },
+        {
+          "store": "Chewy",
+          "product": "ROYAL CANIN WET CAT FOOD (Free Shipping)",
+          "price": "4.8178K\u00b7Free delivery over $49Shop Chewy for the best deals on Royal Canin Wet Cat Food and more with fast free shipping...",
+          "link": "https://www.chewy.com/f/royal-canin-wet-cat-food_c389_f1v468813",
+          "price_numeric": 49.0,
+          "effective_price": 49.0,
+          "canonical_product": "royal canin wet cat food",
+          "deal_score": 0.99,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Royal Canin Cat Food Wet",
+          "price": "Free 90-day returnsRoyal Canin Cat Food Wet(23) \u00b7 Royal Canin Instinctive Cat Wet Food in JELLY 12x85g $50.99 \u00b7 Royal Ca...",
+          "link": "https://www.walmart.com/c/kp/royal-canin-cat-food-wet",
+          "price_numeric": 50.99,
+          "effective_price": 50.99,
+          "canonical_product": "royal canin cat food wet",
+          "deal_score": 0.99,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "Royal Canin",
+          "product": "Feline Selected Protein PR Loaf In Sauce - Cats - Royal Canin",
+          "price": "Rating3.4(198)\u00b7Free deliveryWet food for Cat. Feline Selected Protein PR Loaf in Sauce Canned Cat Food 3.4 out of 5 star...",
+          "link": "https://www.royalcanin.com/us/cats/products/vet-products/selected-protein-pr-1336?srsltid=AfmBOoqSmScCzeaL0y7v523Mdf98z7faDF88uWOzeCtVzMDXzTi-2u8m",
+          "price_numeric": null,
+          "canonical_product": "feline selected protein pr loaf in sauce - cats -",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Shop for Royal Canin Cat Food at Tractor Supply Co.",
+          "price": "Royal Canin Feline Care Nutrition Adult Urinary Care Thin Slices in Gravy Wet Cat Food Formula, 3 oz. ... Free Shipping ...",
+          "link": "https://www.tractorsupply.com/tsc/brand/royal+canin/cat-food",
+          "price_numeric": null,
+          "canonical_product": "shop for royal canin cat food at tractor supply co",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Royal Canin Wet Cat Food | Blain's Farm & Fleet",
+          "price": "4.721K\u00b77-day delivery\u00b760-day returnsRoyal Canin 24-Count, 3 oz Feline Health Nutrition Aging 12+ Thin Slices In Gravy Ca...",
+          "link": "https://www.farmandfleet.com/wet-cat-food/?brand=Royal+Canin",
+          "price_numeric": null,
+          "canonical_product": "royal canin wet cat food | blain's farm & fleet",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Sept. Sale - Royal Canin Canned Cat Food Buy 3 Get 1 FREE ...",
+          "price": "Sept. Sale - Royal Canin Canned Cat Food Buy 3 Get 1 FREE! Oh, this deal is no longer available. Check our current deals...",
+          "link": "https://premierpetsupply.com/northville/deals/sept-sale-royal-canin-canned-cat-food-buy-3-get-1-free/",
+          "price_numeric": null,
+          "canonical_product": "sept. sale - royal canin canned cat food buy 3 get",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Royal Canin Selected Protein PR Can for Cats | MFG_327",
+          "price": "30-day returnsThis veterinary-exclusive formula is complete and balanced, highly palatable and highly digestible. It's f...",
+          "link": "https://evanmoore.covetruspharmacy.com/product/3006525/Royal+Canin+Selected+Protein+PR+Can+for+Cats",
+          "price_numeric": null,
+          "canonical_product": "royal canin selected protein pr can for cats | mfg",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        }
+      ]
     }
   ]
 }
