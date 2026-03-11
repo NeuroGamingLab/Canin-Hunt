@@ -3309,6 +3309,128 @@
           "price_insight": null
         }
       ]
+    },
+    {
+      "run_id": "run_20260311_0150",
+      "run_date": "2026-03-11",
+      "findings": [
+        {
+          "store": "See link",
+          "product": "Shop All Products \u2013 tagged \"brand_Royal Canin\"",
+          "price": "30-day returnsRoyal Canin Canned Cat Food, Kitten Instinctive 3oz Can. Regular price $2.49. Regular price $0.00 Sale pri...",
+          "link": "https://shop.bensonspet.com/collections/pet/brand_royal-canin?srsltid=AfmBOooB3Nu8UtY_yYaDOr271qQVlJm6PkD9nyS1ws2N_Bc3xleDvo2n",
+          "price_numeric": 2.49,
+          "effective_price": 2.49,
+          "canonical_product": "shop all products \u2013 tagged \"brand_royal canin\"",
+          "deal_score": 1.0,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "Petco",
+          "product": "Royal Canin Wet Cat Food | Petco",
+          "price": "4.41.6K\u00b7Free delivery over $35Royal Canin Feline Health Indoor & Instinctive Adult Thin Slices in Gravy and Morsels in G...",
+          "link": "https://www.petco.com/brand/royal-canin/cat/cat-food/wet-cat-food?srsltid=AfmBOopYFH8oo4wjhbpcjK6-m9Ak6I2M0rMpcGEdfZGImLq_2zX2MhXX",
+          "price_numeric": 35.0,
+          "effective_price": 35.0,
+          "canonical_product": "royal canin wet cat food | petco",
+          "deal_score": 1.0,
+          "price_anomaly": null,
+          "price_insight": "Near average price"
+        },
+        {
+          "store": "Chewy",
+          "product": "ROYAL CANIN WET CAT FOOD (Free Shipping) - Chewy",
+          "price": "4.8178K\u00b7Free delivery over $49Shop Chewy for the best deals on Royal Canin Wet Cat Food and more with fast free shipping...",
+          "link": "https://www.chewy.com/f/royal-canin-wet-cat-food_c389_f1v468813",
+          "price_numeric": 49.0,
+          "effective_price": 49.0,
+          "canonical_product": "royal canin wet cat food (free shipping) - chewy",
+          "deal_score": 1.0,
+          "price_anomaly": null,
+          "price_insight": "Near average price"
+        },
+        {
+          "store": "See link",
+          "product": "Royal Canin - PetMeds",
+          "price": "4.73.1K\u00b7Free delivery over $49(1) \u00b7 Diet Feline Selected Protein PD Loaf Wet Cat Food \u00b7 $112.56 ; (341) \u00b7 Diet Feline Hy...",
+          "link": "https://www.1800petmeds.com/royal-canin.html",
+          "price_numeric": 49.0,
+          "effective_price": 49.0,
+          "canonical_product": "royal canin - petmeds",
+          "deal_score": 0.99,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "PetSmart",
+          "product": "Royal Canin\u00ae Cat Food & Kitten Food - PetSmart",
+          "price": "4.414K\u00b7Free delivery over $49Royal Canin\u00ae Feline Health Nutrition Adult Instinctive Wet Cat Food - Thin Slices in Gravy,...",
+          "link": "https://www.petsmart.com/featured-brands/royal-canin/cat",
+          "price_numeric": 49.0,
+          "effective_price": 49.0,
+          "canonical_product": "royal canin\u00ae cat food & kitten food - petsmart",
+          "deal_score": -17.15,
+          "price_anomaly": "high",
+          "price_insight": "Above average - consider waiting"
+        },
+        {
+          "store": "See link",
+          "product": "Royal Canin Cat Food - Walmart",
+          "price": "Free 90-day returnsRoyal Canin Urinary Care Cat Wet Food in Gravy 12x85g $53.99 \u00b7 Royal Canin Urinary Care Cat Wet Food ...",
+          "link": "https://www.walmart.com/browse/pets/royal-canin-cat-food/5440_5285960_6183044_6743366",
+          "price_numeric": 53.99,
+          "effective_price": 53.99,
+          "canonical_product": "royal canin cat food - walmart",
+          "deal_score": 1.0,
+          "price_anomaly": null,
+          "price_insight": "Below average - good time to buy"
+        },
+        {
+          "store": "Royal Canin",
+          "product": "Cat Nutritional Product Range | Royal Canin US",
+          "price": "4.3257\u00b7Free deliveryRoyal canin's adult cat food is a tailored nutritional solution designed to meet the dietary require...",
+          "link": "https://www.royalcanin.com/us/cats/products/retail-products?srsltid=AfmBOoorvdqmtJS47lxeHDVBX5SgSnpyAg9M96v-VO0_Ixm2eJBCkU8J",
+          "price_numeric": null,
+          "canonical_product": "cat nutritional product range | royal canin us",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Royal Canin Selected Protein PR Can for Cats | MFG_327",
+          "price": "30-day returnsIt's formulated with a novel protein, rabbit, to help a cat with food sensitivities resulting from common ...",
+          "link": "https://evanmoore.covetruspharmacy.com/product/3006525/Royal+Canin+Selected+Protein+PR+Can+for+Cats",
+          "price_numeric": null,
+          "canonical_product": "royal canin selected protein pr can for cats | mfg",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Shop for Royal Canin Cat Food at Tractor Supply Co.",
+          "price": "Royal Canin Feline Care Nutrition Adult Urinary Care Thin Slices in Gravy Wet Cat Food Formula, 3 oz. ... Free Shipping ...",
+          "link": "https://www.tractorsupply.com/tsc/brand/royal+canin/cat-food",
+          "price_numeric": null,
+          "canonical_product": "shop for royal canin cat food at tractor supply co",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Royal Canin Wet Cat Food | Blain's Farm & Fleet",
+          "price": "4.721K\u00b77-day delivery\u00b760-day returnsRoyal Canin 24-Count, 3 oz Feline Health Nutrition Aging 12+ Thin Slices In Gravy Ca...",
+          "link": "https://www.farmandfleet.com/wet-cat-food/?brand=Royal+Canin",
+          "price_numeric": null,
+          "canonical_product": "royal canin wet cat food | blain's farm & fleet",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        }
+      ]
     }
   ]
 }
