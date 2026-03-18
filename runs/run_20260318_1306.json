@@ -1,0 +1,116 @@
+{
+  "run_id": "run_20260318_1306",
+  "run_date": "2026-03-18",
+  "findings": [
+    {
+      "store": "Petco",
+      "product": "Royal Canin Canned Cat Food: 10% Off Curbside Pickup | Petco",
+      "price": "Get 10% off with curbside pickup available at Petco! ShopRoyalCaninCannedCatFoodto help your furred loved one reach thei...",
+      "link": "https://www.petco.com/brand/royal-canin/cat\"/cat-food/wet-cat-food/canned-cat-food",
+      "price_numeric": null,
+      "canonical_product": "royal canin canned cat food: 10% off curbside pick",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "Royal Canin Cat Food in Royal Canin (17) - Walmart.com",
+      "price": "Shop forRoyalCaninCatFoodinRoyalCanin. Buy products such asRoyalCaninUrinary CareCatWetFoodin Gravy 12x85g at Walmart an...",
+      "link": "https://www.walmart.com/browse/pets/royal-canin-cat-food/5440_5285960_6183044_6743366",
+      "price_numeric": null,
+      "canonical_product": "royal canin cat food in royal canin (17) - walmart",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "Shop for Royal Canin Cat Food at Tractor Supply Co.",
+      "price": "RoyalCaninFeline Health Nutrition Kitten Thin Slices in Gravy WetCatFood, 3oz., 12 pk. 4.8 (119) Item # 146179699 Pickup...",
+      "link": "https://www.tractorsupply.com/tsc/brand/royal+canin/cat-food",
+      "price_numeric": null,
+      "canonical_product": "shop for royal canin cat food at tractor supply co",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "PetSmart",
+      "product": "Royal Canin\u00ae Cat Food & Kitten Food | PetSmart",
+      "price": "RoyalCanin\u00aecatfoodis designed to satisfycats'unique nutritional needs. It features dry and wet formulas that meet the ne...",
+      "link": "https://www.petsmart.com/featured-brands/royal-canin/cat",
+      "price_numeric": null,
+      "canonical_product": "royal canin\u00ae cat food & kitten food | petsmart",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Amazon",
+      "product": "Amazon.com: Royal Canin Canned Cat Food",
+      "price": "1-48 of 141 results for \"royalcanincannedcatfood\" Results Check each product page for other buying options. Price and ot...",
+      "link": "https://www.amazon.com/royal-canin-canned-cat-food/s?k=royal+canin+canned+cat+food",
+      "price_numeric": null,
+      "canonical_product": "amazon.com: royal canin canned cat food",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Chewy",
+      "product": "Royal Canin Cat Food - Free shipping | Chewy",
+      "price": "Shop Chewy for low prices and the bestRoyalCaninCatFood! We carry a large selection and the top brands like American Jou...",
+      "link": "https://www.chewy.com/brands/royal-canin-cat-food-150806",
+      "price_numeric": null,
+      "canonical_product": "royal canin cat food - free shipping | chewy",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "Royal Canin Cat Food for sale | eBay",
+      "price": "Get the best deals onRoyalCaninCatFoodwhen you shop the largest online selection at eBay.com. Free shipping on many item...",
+      "link": "https://www.ebay.com/b/Royal-Canin-Cat-Food/63073/bn_1850925",
+      "price_numeric": null,
+      "canonical_product": "royal canin cat food for sale | ebay",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Royal Canin",
+      "product": "Find a Royal Canin Authorized Seller",
+      "price": "Use our finder to discover where to buyRoyalCaninboth online and near you.",
+      "link": "https://www.royalcanin.com/us/find-a-retailer",
+      "price_numeric": null,
+      "canonical_product": "find a royal canin authorized seller",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "Royal Canin Cat Food | Blain's Farm and Fleet",
+      "price": "ShopRoyalCaninCatFoodat Blain's Farm & Fleet. Quality, value, and top brands in stock. Buy now and enjoy great deals!",
+      "link": "https://www.farmandfleet.com/cat-food/?brand=Royal+Canin",
+      "price_numeric": null,
+      "canonical_product": "royal canin cat food | blain's farm and fleet",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Petco",
+      "product": "Royal Canin Cat Food: Same Day Delivery | Petco",
+      "price": "Get same day delivery onRoyalCanincatfood! Dry, wet, & grain freecatfoodoptions fromRoyalCaninprovide a nutritious diet ...",
+      "link": "https://www.petco.com/brand/royal-canin/cat/cat-food",
+      "price_numeric": null,
+      "canonical_product": "royal canin cat food: same day delivery | petco",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    }
+  ]
+}
