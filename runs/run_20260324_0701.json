@@ -1,0 +1,116 @@
+{
+  "run_id": "run_20260324_0701",
+  "run_date": "2026-03-24",
+  "findings": [
+    {
+      "store": "Amazon",
+      "product": "Amazon.com:RoyalCaninCannedCatFood",
+      "price": "RoyalCaninAdult Feline Health Nutrition Instinctive Thin Slices in GravyCannedWetCatFood, 3 ozcan(24-count).",
+      "link": "https://www.amazon.com/royal-canin-canned-cat-food/s?k=royal+canin+canned+cat+food",
+      "price_numeric": null,
+      "canonical_product": "amazon.com:royalcanincannedcatfood",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Petco",
+      "product": "Royal Canin Canned Cat Food: 10% Off Curbside Pickup | Petco",
+      "price": "Get 10% off with curbside pickup available at Petco! Shop RoyalCaninCannedCatFoodto help your furred loved one reach the...",
+      "link": "https://www.petco.com/brand/royal-canin/\"cat/cat-food/wet-cat-food/canned-cat-food",
+      "price_numeric": null,
+      "canonical_product": "royal canin canned cat food: 10% off curbside pick",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "Royal Canin Cat Food - Walmart.com",
+      "price": "Shop for RoyalCaninCatFoodat Walmart.com. Save money. Live better.",
+      "link": "https://www.walmart.com/c/kp/royal-canin-cat-food",
+      "price_numeric": null,
+      "canonical_product": "royal canin cat food - walmart.com",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "Royal Canin Cat Food in Royal Canin - Walmart.com",
+      "price": "Shop for RoyalCaninCatFoodin RoyalCanin. Buy products such as RoyalCaninUrinary Care Cat WetFoodin Gravy 12x85g at Walma...",
+      "link": "https://www.walmart.com/browse/pets/royal-canin-cat-food/5440_5285960_6183044_6743366",
+      "price_numeric": null,
+      "canonical_product": "royal canin cat food in royal canin - walmart.com",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "Royal Canin Cat Food for sale | eBay",
+      "price": "Get the best deals on RoyalCaninCatFoodwhen you shop the largest online selection at eBay.com. Free shipping on many ite...",
+      "link": "https://www.ebay.com/b/Royal-Canin-Cat-Food/63073/bn_1850925",
+      "price_numeric": null,
+      "canonical_product": "royal canin cat food for sale | ebay",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Amazon",
+      "product": "Amazon.com: Royal Canin Cat Food",
+      "price": "Price and other details may vary based on product size and color. Explore RoyalCanin'stargetedcatfoodformulas designed t...",
+      "link": "https://www.amazon.com/royal-canin-cat-food/s?k=royal+canin+cat+food",
+      "price_numeric": null,
+      "canonical_product": "amazon.com: royal canin cat food",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "Royal Canin in Shop By Brand - Walmart.com",
+      "price": "Buy products such as RoyalCaninShih Tzu in Loaf Dog WetFood12 x 85g at Walmart and save.",
+      "link": "https://www.walmart.com/browse/pets/royal-canin-pet-food/5440_5285960_6183044",
+      "price_numeric": null,
+      "canonical_product": "royal canin in shop by brand - walmart.com",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Chewy",
+      "product": "ROYALCANINFeline Health Nutrition Adult Instinctive... - Chewy.com",
+      "price": "RoyalCaninAdult Instinctive Thin Slices in Gravy wetcatfoodis made with the balanced nutrition your pet needs for optimu...",
+      "link": "https://www.chewy.com/royal-canin-feline-health-nutrition/dp/29875",
+      "price_numeric": null,
+      "canonical_product": "royalcaninfeline health nutrition adult instinctiv",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "RoyalCaninCannedCatFoodforsale| eBay",
+      "price": "Find great deals on eBay forRoyalCaninCannedCatFood. Shop with confidence.",
+      "link": "https://www.ebay.ca/sch/i.html?_nkw=royal+canin+canned+cat+food",
+      "price_numeric": null,
+      "canonical_product": "royalcanincannedcatfoodforsale| ebay",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Petco",
+      "product": "RoyalCaninAging 12+ Loaf in Sauce WetCatFood, 5.1 oz.... | Petco",
+      "price": "Onecatwas 17 at the time and it kept her going another 2 years. And the other, who could be the postercatfor Finicky, fo...",
+      "link": "https://www.petco.com/shop/en/petcostore/product/wet-cat-food/royal-canin-feline-health-nutrition-aging-12-joint-health-loaf-in-sauce-canned-cat-food",
+      "price_numeric": null,
+      "canonical_product": "royalcaninaging 12+ loaf in sauce wetcatfood, 5.1",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    }
+  ]
+}
