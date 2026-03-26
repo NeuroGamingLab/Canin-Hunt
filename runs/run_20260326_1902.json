@@ -1,0 +1,116 @@
+{
+  "run_id": "run_20260326_1902",
+  "run_date": "2026-03-26",
+  "findings": [
+    {
+      "store": "Amazon",
+      "product": "Amazon.com:RoyalCaninCannedCatFood",
+      "price": "RoyalCaninAdult Feline Health Nutrition Instinctive Thin Slices in GravyCannedWetCatFood, 3 ozcan(24-count).",
+      "link": "https://www.amazon.com/royal-canin-canned-cat-food/s?k=royal+canin+canned+cat+food",
+      "price_numeric": null,
+      "canonical_product": "amazon.com:royalcanincannedcatfood",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Royal Canin",
+      "product": "Tailored Health Nutrition ForCats& Dogs |RoyalCaninUS",
+      "price": "RoyalCaninspecialises in highly tailored nutritional products for yourcator dog's needs. We make dry kibble, wetfood, an...",
+      "link": "https://www.royalcanin.com/us",
+      "price_numeric": null,
+      "canonical_product": "tailored health nutrition forcats& dogs |royalcani",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Chewy",
+      "product": "ROYALCANINFeline Health Nutrition Adult Instinctive... - Chewy.com",
+      "price": "RoyalCaninAdult Instinctive Thin Slices in Gravy wetcatfoodis made with the balanced nutrition your pet needs for optimu...",
+      "link": "https://www.chewy.com/royal-canin-feline-health-nutrition/dp/29875",
+      "price_numeric": null,
+      "canonical_product": "royalcaninfeline health nutrition adult instinctiv",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "RoyalCaninCannedCatFoodforsale| eBay",
+      "price": "Find great deals on eBay forRoyalCaninCannedCatFood. Shop with confidence.",
+      "link": "https://www.ebay.ca/sch/i.html?_nkw=royal+canin+canned+cat+food",
+      "price_numeric": null,
+      "canonical_product": "royalcanincannedcatfoodforsale| ebay",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "BuyRoyalCaninCatFoodOnline in Canada | PetMax.ca",
+      "price": "BuyRoyalCaninCatFoodOnline in Canada at everyday low prices. PetMax is family owned and operated and proudly Canadian. W...",
+      "link": "https://www.petmax.ca/collections/royal-canin-cat-food",
+      "price_numeric": null,
+      "canonical_product": "buyroyalcanincatfoodonline in canada | petmax.ca",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Petco",
+      "product": "RoyalCaninFeline Urinary Care Thin Slices in Gravy WetCatFood...",
+      "price": "- ENCOURAGES HEALTHY HYDRATION:RoyalCaninurinarycatfoodhelps support a healthy urinary tract and encourages hydration in...",
+      "link": "https://www.petco.com/shop/en/petcostore/product/royal-canin-feline-urinary-care-thin-slices-in-gravy-wet-cat-food-multipack",
+      "price_numeric": null,
+      "canonical_product": "royalcaninfeline urinary care thin slices in gravy",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "PetSmart",
+      "product": "RoyalCanin\u00ae Feline Health Nutrition Mother & Babycat Mousse in...",
+      "price": "RoyalCaninMother & Babycat Ultra-Soft Mousse in Sauce feeds your young kitten's magnificence from the very start - with ...",
+      "link": "https://www.petsmart.com/cat/food-and-treats/wet-food/royal-canin-feline-health-nutrition-mother-and-babycat-wet-cat-food---3-oz-can-12-count-43886.html",
+      "price_numeric": null,
+      "canonical_product": "royalcanin\u00ae feline health nutrition mother & babyc",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "9 BestCatFoodsin 2026, Recommended By Vets | PetMD",
+      "price": "Drycatfoodcanbe less expensive,canbe used in an automatic feeder, and is easily stored. Your Vet\u2019s Input.Top vet-recomme...",
+      "link": "https://www.petmd.com/cat/vet-verified/best-cat-food",
+      "price_numeric": null,
+      "canonical_product": "9 bestcatfoodsin 2026, recommended by vets | petmd",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "RoyalCaninCannedCat",
+      "price": "RoyalCaninFunctional Support WetCatFood6CanSampler (2) Each: Digest Sensitive, Aging 12+, Urinary Care+ MerlinsMart Zine...",
+      "link": "https://www.walmart.com/c/kp/royal-canin-canned-cat",
+      "price_numeric": null,
+      "canonical_product": "royalcanincannedcat",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "See link",
+      "product": "CannedCatFood- Kitten - Loaf in Sauce \u2013 J & J Pet Club",
+      "price": "RoyalCaninCannedCatFood- Mother & Babycat - Ultra Soft Mousse in Sauce.",
+      "link": "https://jjpetclub.com/products/royal-canin-kitten-loaf-in-sauce-canned-cat-food",
+      "price_numeric": null,
+      "canonical_product": "cannedcatfood- kitten - loaf in sauce \u2013 j & j pet",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    }
+  ]
+}
