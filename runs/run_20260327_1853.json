@@ -1,0 +1,123 @@
+{
+  "run_id": "run_20260327_1853",
+  "run_date": "2026-03-27",
+  "findings": [
+    {
+      "store": "See link",
+      "product": "All Products \u2013 tagged \"brand_Royal Canin\" - Benson's Pet Center",
+      "price": "30-day returnsRoyal Canin Canned Cat Food, Kitten Instinctive 3oz Can. Regular price $2.49. Regular price $0.00 Sale pri...",
+      "link": "https://shop.bensonspet.com/collections/all/brand_royal-canin?srsltid=AfmBOooD7ucUhh3Qhg7v5ayTR1rOF37AItiIPZ0uNUi3PEud6cI59cdd",
+      "price_numeric": 2.49,
+      "effective_price": 2.49,
+      "canonical_product": "all products \u2013 tagged \"brand_royal canin\" - benson",
+      "deal_score": 1.0,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "PetSmart",
+      "product": "Royal Canin\u00ae Cat Food & Kitten Food - PetSmart",
+      "price": "4.313K\u00b7$6.99 delivery35% off. on first Autoship order. Royal Canin\u00ae Feline Health Nutrition Indoor Adult Wet Cat Food - ...",
+      "link": "https://www.petsmart.com/featured-brands/royal-canin/cat",
+      "price_numeric": 6.99,
+      "effective_price": 4.54,
+      "canonical_product": "royal canin\u00ae cat food & kitten food - petsmart",
+      "deal_score": 1.0,
+      "price_anomaly": null,
+      "price_insight": "Below average - good time to buy"
+    },
+    {
+      "store": "Chewy",
+      "product": "ROYAL CANIN WET CAT FOOD (Free Shipping) - Chewy",
+      "price": "4.8151K\u00b7Free delivery over $35Shop Chewy for the best deals on Royal Canin Wet Cat Food and more with fast free shipping...",
+      "link": "https://www.chewy.com/f/royal-canin-wet-cat-food_c389_f1v468813",
+      "price_numeric": 35.0,
+      "effective_price": 35.0,
+      "canonical_product": "royal canin wet cat food (free shipping) - chewy",
+      "deal_score": 1.0,
+      "price_anomaly": null,
+      "price_insight": "Below average - good time to buy"
+    },
+    {
+      "store": "See link",
+      "product": "Cat Royal Canin Veterinary Diet Online - PetCareRx.com",
+      "price": "4.27.6K\u00b7Free delivery over $48Royal Canin Feline Satiety Support Weight Management Loaf in Sauce Canned Cat Food - 5.1 o...",
+      "link": "https://www.petcarerx.com/pharmacy/royal-canin-veterinary-diet/cat?page=all",
+      "price_numeric": 48.0,
+      "effective_price": 48.0,
+      "canonical_product": "cat royal canin veterinary diet online - petcarerx",
+      "deal_score": 1.0,
+      "price_anomaly": null,
+      "price_insight": "Near average price"
+    },
+    {
+      "store": "See link",
+      "product": "Shop for Royal Canin Cat Food at Tractor Supply Co.",
+      "price": "4.41.5K\u00b7Free delivery over $49Royal Canin Feline Health Nutrition Indoor Adult Morsels in Gravy Canned Cat Food, 3 oz., ...",
+      "link": "https://www.tractorsupply.com/tsc/brand/royal+canin/cat-food",
+      "price_numeric": 49.0,
+      "effective_price": 49.0,
+      "canonical_product": "shop for royal canin cat food at tractor supply co",
+      "deal_score": 1.0,
+      "price_anomaly": null,
+      "price_insight": "Near average price"
+    },
+    {
+      "store": "See link",
+      "product": "Royal Canin Cat Food - Walmart",
+      "price": "Free 90-day returnsRoyal Canin Urinary Care Cat Wet Food in Gravy 12x85g $53.99 \u00b7 Royal Canin Urinary Care Cat Wet Food ...",
+      "link": "https://www.walmart.com/browse/pets/royal-canin-cat-food/5440_5285960_6183044_6743366",
+      "price_numeric": 53.99,
+      "effective_price": 53.99,
+      "canonical_product": "royal canin cat food - walmart",
+      "deal_score": 1.0,
+      "price_anomaly": null,
+      "price_insight": "Below average - good time to buy"
+    },
+    {
+      "store": "See link",
+      "product": "Royal Canin\u00ae Feline Health Nutrition Indoor Adult & Adult Instinctive Wet ...",
+      "price": "Free delivery over $3530-day returnsSign up for Autoship at checkout and save up to 35% today and 5% on all future order...",
+      "link": "https://www.petsuppliesplus.com/categories/cat/food/wet-food/royal-canin-feline-health-nutrition-indoor-adult-adult-instinctive-wet-cat-food-variety-pack/31569?sku=030111754592",
+      "price_numeric": 3530.0,
+      "effective_price": 3530.0,
+      "canonical_product": "royal canin\u00ae feline health nutrition indoor adult",
+      "deal_score": 1.0,
+      "price_anomaly": null,
+      "price_insight": "Near average price"
+    },
+    {
+      "store": "Petco",
+      "product": "Royal Canin Wet Cat Food - Petco",
+      "price": "4.41.6K\u00b7Store nearbyRoyal Canin Feline Health Nutrition Indoor Adult & Adult Instinctive Wet Cat Food Variety Pack Cat F...",
+      "link": "https://www.petco.com/brand/royal-canin/cat/cat-food/wet-cat-food?srsltid=AfmBOooU2_R39LcjzCzBYPWIHJb-r5lB02jII7v7TvYi5Le8cqyrcInW",
+      "price_numeric": null,
+      "canonical_product": "royal canin wet cat food - petco",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Petco",
+      "product": "Royal Canin Veterinary Diet Wet Cat Food - Petco",
+      "price": "Royal Canin Veterinary Diet Wet Cat Food. Get It Today. Same Day Delivery. Pick Up In-Store. Category. Canned Cat Food (...",
+      "link": "https://www.petco.com/brand/royal-canin-veterinary-diet/cat/cat-food/wet-cat-food?srsltid=AfmBOoobjc0rMA0e4W82wi6Dn2pnKtGw22nC_IDrT3cnVAS7vMED50af",
+      "price_numeric": null,
+      "canonical_product": "royal canin veterinary diet wet cat food - petco",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Chewy",
+      "product": "Royal Canin: Dog Food & Cat Food (Free Shipping) | Chewy",
+      "price": "Shop Chewy for low prices on Royal Canin Dog and Cat Food. We carry a wide selection of Royal Canin Dog and Cat Food ava...",
+      "link": "https://www.chewy.com/brands/royal-canin-7487",
+      "price_numeric": null,
+      "canonical_product": "royal canin: dog food & cat food (free shipping) |",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    }
+  ]
+}
