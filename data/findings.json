@@ -11494,6 +11494,126 @@
           "price_insight": null
         }
       ]
+    },
+    {
+      "run_id": "run_20260328_1837",
+      "run_date": "2026-03-28",
+      "findings": [
+        {
+          "store": "PetSmart",
+          "product": "Royal Canin\u00ae Cat Food & Kitten Food - PetSmart",
+          "price": "4.313K\u00b7$6.99 delivery35% off. on first Autoship order. Royal Canin\u00ae Feline Health Nutrition Indoor Adult Wet Cat Food - ...",
+          "link": "https://www.petsmart.com/featured-brands/royal-canin/cat",
+          "price_numeric": 6.99,
+          "effective_price": 4.54,
+          "canonical_product": "royal canin\u00ae cat food & kitten food - petsmart",
+          "deal_score": 1.0,
+          "price_anomaly": null,
+          "price_insight": "Below average - good time to buy"
+        },
+        {
+          "store": "Chewy",
+          "product": "ROYAL CANIN WET CAT FOOD (Free Shipping) | Chewy",
+          "price": "4.8150K\u00b7Free delivery over $35Shop Chewy for the best deals on Royal Canin Wet Cat Food and more with fast free shipping...",
+          "link": "https://www.chewy.com/f/royal-canin-wet-cat-food_c389_f1v468813",
+          "price_numeric": 35.0,
+          "effective_price": 35.0,
+          "canonical_product": "royal canin wet cat food (free shipping) | chewy",
+          "deal_score": 1.0,
+          "price_anomaly": null,
+          "price_insight": "Near average price"
+        },
+        {
+          "store": "See link",
+          "product": "Royal Canin Cat Food - Walmart",
+          "price": "Free 90-day returnsRoyal Canin Urinary Care Cat Wet Food in Gravy 12x85g $53.99 \u00b7 Royal Canin Urinary Care Cat Wet Food ...",
+          "link": "https://www.walmart.com/browse/pets/royal-canin-cat-food/5440_5285960_6183044_6743366",
+          "price_numeric": 53.99,
+          "effective_price": 53.99,
+          "canonical_product": "royal canin cat food - walmart",
+          "deal_score": 1.0,
+          "price_anomaly": null,
+          "price_insight": "Below average - good time to buy"
+        },
+        {
+          "store": "Royal Canin",
+          "product": "Kitten Loaf in Sauce Canned Cat Food - Royal Canin",
+          "price": "Kitten Loaf in Sauce Canned Cat Food ; Size \u00b7 24 x 5.1 oz ; Single purchase. $74.16/ $9.69/lb ; Subscription. Free shipp...",
+          "link": "https://www.royalcanin.com/us/cats/products/retail-products/kitten-loaf-in-sauce-1200/2?srsltid=AfmBOoob6eh8yh5A8Tg8rXKpWQPyZ5U4CymY5oaDl0hg5Ie--S3zXyBj",
+          "price_numeric": 74.16,
+          "effective_price": 74.16,
+          "canonical_product": "kitten loaf in sauce canned cat food - royal canin",
+          "deal_score": 1.0,
+          "price_anomaly": null,
+          "price_insight": "Near average price"
+        },
+        {
+          "store": "Petco",
+          "product": "Royal Canin Wet Cat Food - Petco",
+          "price": "4.41.6K\u00b7Store nearbyRoyal Canin Wet Cat Food ; Feline Health Nutrition Sensitive Digestion Adult Dry Cat Food. (454). St...",
+          "link": "https://www.petco.com/brand/royal-canin/cat/cat-food/wet-cat-food?srsltid=AfmBOorekziHdodSV07wryQ4ggokhAIUFSSC--PdZ2aGt__8bP4XxlFe",
+          "price_numeric": null,
+          "canonical_product": "royal canin wet cat food - petco",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "Royal Canin",
+          "product": "Cat Nutritional Product Range | Royal Canin US",
+          "price": "4.3257Royal canin's adult cat food is a tailored nutritional solution designed to meet the dietary requirements of adult...",
+          "link": "https://www.royalcanin.com/us/cats/products/retail-products?srsltid=AfmBOoo1GQ17J44Vfig5mb5gEmOrg0VvOHRfg8REFu_gxfXRyGFfVUSh",
+          "price_numeric": null,
+          "canonical_product": "cat nutritional product range | royal canin us",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Royal Canin Feline Selected Protein PD Loaf in Sauce Canned Cat Food",
+          "price": "Your Pet Needs Help! Are You Ready to Step Up? Buy Royal Canin Feline Selected Protein PD Loaf in Sauce Canned Cat Food ...",
+          "link": "https://www.petcarerx.com/royal-canin-feline-selected-protein-pd-loaf-in-sauce-canned-cat-food/24902?srsltid=AfmBOopuJTgHFok4EkCassHMz-6ml_4_vls40NT_JzIlUJFF2_U6jYv9",
+          "price_numeric": null,
+          "canonical_product": "royal canin feline selected protein pd loaf in sau",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "Petco",
+          "product": "Royal Canin Veterinary Diet Wet Cat Food - Petco",
+          "price": "Royal Canin Veterinary Diet Wet Cat Food. Get It Today. Same Day Delivery. Pick Up In-Store. Category. Canned Cat Food (...",
+          "link": "https://www.petco.com/brand/royal-canin-veterinary-diet/cat/cat-food/wet-cat-food?srsltid=AfmBOoqv0CE5HnczsNzcd2UVN6INTrQ0sgacFKVj1vEXoHTCsD_IC5Qk",
+          "price_numeric": null,
+          "canonical_product": "royal canin veterinary diet wet cat food - petco",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "Royal Canin",
+          "product": "Indoor 7+ Morsels In Gravy Canned Cat Food - Royal Canin",
+          "price": "Royal canin indoor 7+ morsels in gravy canned cat food is formulated to promote healthy aging for cats over 7 years old ...",
+          "link": "https://www.royalcanin.com/us/cats/products/retail-products/indoor-7+-morsels-in-gravy-1307?srsltid=AfmBOooGZ33m359eK0Mq1sDjLPexpNse9To0EBPiIStABBz3CVnvjHiq",
+          "price_numeric": null,
+          "canonical_product": "indoor 7+ morsels in gravy canned cat food - royal",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "Chewy",
+          "product": "Royal Canin: Dog Food & Cat Food (Free Shipping) | Chewy",
+          "price": "Shop Chewy for low prices on Royal Canin Dog and Cat Food. We carry a wide selection of Royal Canin Dog and Cat Food ava...",
+          "link": "https://www.chewy.com/brands/royal-canin-7487",
+          "price_numeric": null,
+          "canonical_product": "royal canin: dog food & cat food (free shipping) |",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        }
+      ]
     }
   ]
 }
