@@ -1,0 +1,122 @@
+{
+  "run_id": "run_20260330_1856",
+  "run_date": "2026-03-30",
+  "findings": [
+    {
+      "store": "PetSmart",
+      "product": "Royal Canin\u00ae Cat Food & Kitten Food - PetSmart",
+      "price": "4.313K\u00b7$6.99 deliveryRoyal Canin\u00ae Feline Health Nutrition Adult Instinctive Wet Cat Food - Thin Slices in Gravy, 3oz. (4...",
+      "link": "https://www.petsmart.com/featured-brands/royal-canin/cat",
+      "price_numeric": 6.99,
+      "effective_price": 6.99,
+      "canonical_product": "royal canin\u00ae cat food & kitten food - petsmart",
+      "deal_score": 0.94,
+      "price_anomaly": null,
+      "price_insight": "Below average - good time to buy"
+    },
+    {
+      "store": "See link",
+      "product": "I can't afford Royal Canin wet food anymore. What could be ... - Reddit",
+      "price": "Jun 30, 2024\u00b7fancy feast classic pate is the best cheap wet food in the market by far. $20 for 30 cans right now !",
+      "link": "https://www.reddit.com/r/catfood/comments/1ds7sf8/i_cant_afford_royal_canin_wet_food_anymore_what/",
+      "price_numeric": 20.0,
+      "effective_price": 20.0,
+      "canonical_product": "i can't afford royal canin wet food anymore. what",
+      "deal_score": 1.0,
+      "price_anomaly": null,
+      "price_insight": "Near average price"
+    },
+    {
+      "store": "Petco",
+      "product": "Royal Canin Wet Cat Food - Petco",
+      "price": "4.41.6K\u00b7Free delivery over $35Royal Canin Wet Cat Food ; Feline Health Nutrition Sensitive Digestion Adult Dry Cat Food....",
+      "link": "https://www.petco.com/brand/royal-canin/cat/cat-food/wet-cat-food?srsltid=AfmBOopyKsEvLEC2JxIXewBeatmSlNzLgHN007U63a7dd_iDRhN-0_BJ",
+      "price_numeric": 35.0,
+      "effective_price": 35.0,
+      "canonical_product": "royal canin wet cat food - petco",
+      "deal_score": 1.0,
+      "price_anomaly": null,
+      "price_insight": "Near average price"
+    },
+    {
+      "store": "Chewy",
+      "product": "ROYAL CANIN WET CAT FOOD (Free Shipping) - Chewy",
+      "price": "4.8146K\u00b7Free delivery over $35Shop Chewy for the best deals on Royal Canin Wet Cat Food and more with fast free shipping...",
+      "link": "https://www.chewy.com/f/royal-canin-wet-cat-food_c389_f1v468813",
+      "price_numeric": 35.0,
+      "effective_price": 35.0,
+      "canonical_product": "royal canin wet cat food (free shipping) - chewy",
+      "deal_score": 1.0,
+      "price_anomaly": null,
+      "price_insight": "Below average - good time to buy"
+    },
+    {
+      "store": "See link",
+      "product": "Cat Royal Canin Veterinary Diet Online - PetCareRx.com",
+      "price": "4.17.5K\u00b7Free delivery over $48Royal Canin Feline Satiety Support Weight Management Loaf in Sauce Canned Cat Food - 5.1 o...",
+      "link": "https://www.petcarerx.com/pharmacy/royal-canin-veterinary-diet/cat?page=all",
+      "price_numeric": 48.0,
+      "effective_price": 48.0,
+      "canonical_product": "cat royal canin veterinary diet online - petcarerx",
+      "deal_score": 1.0,
+      "price_anomaly": null,
+      "price_insight": "Near average price"
+    },
+    {
+      "store": "See link",
+      "product": "Royal Canin Cat Food in Royal Canin - Walmart.com",
+      "price": "Free 90-day returnsRoyal Canin Hairball Care Cat Wet Food in Jelly 12x85g $49.99 \u00b7 Royal Canin Hairball Care Cat Wet Foo...",
+      "link": "https://www.walmart.com/browse/pets/royal-canin-cat-food/5440_5285960_6183044_6743366",
+      "price_numeric": 49.99,
+      "effective_price": 49.99,
+      "canonical_product": "royal canin cat food in royal canin - walmart.com",
+      "deal_score": 1.0,
+      "price_anomaly": null,
+      "price_insight": "Near average price"
+    },
+    {
+      "store": "Royal Canin",
+      "product": "Cat Nutritional Product Range | Royal Canin US",
+      "price": "4.3257Royal canin's adult cat food is a tailored nutritional solution designed to meet the dietary requirements of adult...",
+      "link": "https://www.royalcanin.com/us/cats/products/retail-products?srsltid=AfmBOoq5DZzUqYZ2ygL2dkZRt7MK7-3J4sH5W3LcY5ZroG69innxlqh1",
+      "price_numeric": null,
+      "canonical_product": "cat nutritional product range | royal canin us",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Royal Canin",
+      "product": "Indoor 7+ Morsels In Gravy Canned Cat Food - Royal Canin",
+      "price": "Royal canin indoor 7+ morsels in gravy canned cat food is formulated to promote healthy aging for cats over 7 years old ...",
+      "link": "https://www.royalcanin.com/us/cats/products/retail-products/indoor-7+-morsels-in-gravy-1307?srsltid=AfmBOop2ZDlnUiZ2RECAYbfJYRpVtWNlY-O3i_kqqWkisc8OSUnXfhBF",
+      "price_numeric": null,
+      "canonical_product": "indoor 7+ morsels in gravy canned cat food - royal",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Royal Canin",
+      "product": "Royal Canin Cat Food & Health Nutrition Range",
+      "price": "A science-backed, nutritional cat food range to support cats of all ages, and breeds, including those with specific cond...",
+      "link": "https://www.royalcanin.com/us/cats/products?srsltid=AfmBOorPGm4rYRFDSdvfU4RcJsbeznvij5ISrOUf0UNoLu6sXBbTbjZy",
+      "price_numeric": null,
+      "canonical_product": "royal canin cat food & health nutrition range",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    },
+    {
+      "store": "Royal Canin",
+      "product": "Feline Selected Protein PR Loaf In Sauce - Cats - Royal Canin",
+      "price": "Rating3.4(198)Wet food for Cat. Feline Selected Protein PR Loaf in Sauce Canned Cat Food 3.4 out of 5 stars, average rat...",
+      "link": "https://www.royalcanin.com/us/cats/products/vet-products/selected-protein-pr-1336?srsltid=AfmBOooloUTFKONjdYebbLxNHkr_TJ8jzfTSbSM_g0CT_POcWRDDe1cy",
+      "price_numeric": null,
+      "canonical_product": "feline selected protein pr loaf in sauce - cats -",
+      "deal_score": null,
+      "price_anomaly": null,
+      "price_insight": null
+    }
+  ]
+}
