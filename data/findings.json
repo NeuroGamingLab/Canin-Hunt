@@ -14682,6 +14682,127 @@
           "price_insight": null
         }
       ]
+    },
+    {
+      "run_id": "run_20260404_1251",
+      "run_date": "2026-04-04",
+      "findings": [
+        {
+          "store": "Petco",
+          "product": "Royal Canin Wet Cat Food | Petco",
+          "price": "4.41.6K\u00b7Free delivery over $35\u00b7Free in-store returnsRoyal Canin Feline Care Nutrition Urinary Care Thin Slices in Gravy ...",
+          "link": "https://www.petco.com/brand/royal-canin/cat/cat-food/wet-cat-food?srsltid=AfmBOop3zu37o3DRrpm0cIP1kLkjrcvOPEFfjXga9hzR0eCmdvvSH1y-",
+          "price_numeric": 35.0,
+          "effective_price": 35.0,
+          "canonical_product": "royal canin wet cat food | petco",
+          "deal_score": 1.0,
+          "price_anomaly": null,
+          "price_insight": "Near average price"
+        },
+        {
+          "store": "Chewy",
+          "product": "ROYAL CANIN WET CAT FOOD (Free Shipping) - Chewy",
+          "price": "4.8139K\u00b7Free delivery over $35Shop Chewy for the best deals on Royal Canin Wet Cat Food and more with fast free shipping...",
+          "link": "https://www.chewy.com/f/royal-canin-wet-cat-food_c389_f1v468813",
+          "price_numeric": 35.0,
+          "effective_price": 35.0,
+          "canonical_product": "royal canin wet cat food (free shipping) - chewy",
+          "deal_score": 0.57,
+          "price_anomaly": null,
+          "price_insight": "Below average - good time to buy"
+        },
+        {
+          "store": "See link",
+          "product": "Cat Royal Canin Veterinary Diet Online - PetCareRx.com",
+          "price": "4.17.5K\u00b7Free delivery over $48\u00b730-day returnsRoyal Canin Feline Satiety Support Weight Management Loaf in Sauce Canned C...",
+          "link": "https://www.petcarerx.com/pharmacy/royal-canin-veterinary-diet/cat?page=all",
+          "price_numeric": 48.0,
+          "effective_price": 48.0,
+          "canonical_product": "cat royal canin veterinary diet online - petcarerx",
+          "deal_score": 1.0,
+          "price_anomaly": null,
+          "price_insight": "Near average price"
+        },
+        {
+          "store": "See link",
+          "product": "Royal Canin Wet Cat Food - Walmart.com",
+          "price": "Free 90-day returnsRoyal Canin British Shorthair Cat Wet Food in Gravy 12x85g $50.99 \u00b7 Royal Canin British Shorthair Cat...",
+          "link": "https://www.walmart.com/browse/pets/wet-cat-food/royal-canin/5440_202073_1749780_5753663/YnJhbmQ6Um95YWwgQ2FuaW4ie",
+          "price_numeric": 50.99,
+          "effective_price": 50.99,
+          "canonical_product": "royal canin wet cat food - walmart.com",
+          "deal_score": 0.99,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "Royal Canin",
+          "product": "Kitten Loaf in Sauce Canned Cat Food - Royal Canin",
+          "price": "Kitten Loaf in Sauce Canned Cat Food ; Size \u00b7 24 x 5.1 oz ; Single purchase. $74.16/ $9.69/lb ; Subscription. Free shipp...",
+          "link": "https://www.royalcanin.com/us/cats/products/retail-products/kitten-loaf-in-sauce-1200/2?srsltid=AfmBOopsRjdZcokpKd4wxRZIsanx7T7aCybYIVZOcKdgdiL222374LPy",
+          "price_numeric": 74.16,
+          "effective_price": 74.16,
+          "canonical_product": "kitten loaf in sauce canned cat food - royal canin",
+          "deal_score": 1.0,
+          "price_anomaly": null,
+          "price_insight": "Near average price"
+        },
+        {
+          "store": "PetSmart",
+          "product": "Royal Canin\u00ae Feline Care Nutrition Digestive Care Adult Cat Wet Food ...",
+          "price": "In stockRating4.6(613)Available in a multipack of 12 3 oz cans, this delicious food promotes better digestion to help yo...",
+          "link": "https://www.petsmart.com/cat/food-and-treats/wet-food/royal-canin-feline-care-nutrition-digestive-care-adult-cat-wet-food-12-ct-30743.html",
+          "price_numeric": null,
+          "canonical_product": "royal canin\u00ae feline care nutrition digestive care",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "Royal Canin",
+          "product": "Cat Nutritional Product Range | Royal Canin US",
+          "price": "4.3257\u00b7Free deliveryRoyal canin's adult cat food is a tailored nutritional solution designed to meet the dietary require...",
+          "link": "https://www.royalcanin.com/us/cats/products/retail-products?srsltid=AfmBOorC8hojLhLdBzH2O5vGbycn5Lm7tgHRRvNUh1-Ua4Mj81l5aBWs",
+          "price_numeric": null,
+          "canonical_product": "cat nutritional product range | royal canin us",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "Royal Canin",
+          "product": "Indoor 7+ Morsels In Gravy Canned Cat Food - Royal Canin",
+          "price": "Royal canin indoor 7+ morsels in gravy canned cat food is formulated to promote healthy aging for cats over 7 years old ...",
+          "link": "https://www.royalcanin.com/us/cats/products/retail-products/indoor-7+-morsels-in-gravy-1307?srsltid=AfmBOopzjIOBnhG5z9OxecIt0fhj1aHFLzmyObIm1xiYbQJ7-HvgfCWS",
+          "price_numeric": null,
+          "canonical_product": "indoor 7+ morsels in gravy canned cat food - royal",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Wet Cat Food at Tractor Supply Co.",
+          "price": "In stockRating4.8(24)Royal Canin Feline Care Nutrition Digestive Care Thin Slices in Gravy Wet Cat Food, 3. 4.6 out of 5...",
+          "link": "https://www.tractorsupply.com/tsc/catalog/wet-cat-food",
+          "price_numeric": null,
+          "canonical_product": "wet cat food at tractor supply co.",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "Royal Canin",
+          "product": "Feline Selected Protein PR Loaf In Sauce - Cats - Royal Canin",
+          "price": "Rating3.4(198)\u00b7Free deliveryWet food for Cat. Feline Selected Protein PR Loaf in Sauce Canned Cat Food 3.4 out of 5 star...",
+          "link": "https://www.royalcanin.com/us/cats/products/vet-products/selected-protein-pr-1336?srsltid=AfmBOorsuXBklP8ifK9BBKxNyKbAgrbqo8qFYy4w7Nmj8LxzChDTdNOI",
+          "price_numeric": null,
+          "canonical_product": "feline selected protein pr loaf in sauce - cats -",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        }
+      ]
     }
   ]
 }
