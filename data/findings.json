@@ -21359,6 +21359,122 @@
           "price_insight": null
         }
       ]
+    },
+    {
+      "run_id": "run_20260418_1845",
+      "run_date": "2026-04-18",
+      "findings": [
+        {
+          "store": "See link",
+          "product": "Royal Caribbean Cruises",
+          "price": "Cruise to unforgettable destinations with Royal Caribbean. Save with the best cruise deals and packages to the Caribbean...",
+          "link": "https://www.royalcaribbean.com/",
+          "price_numeric": null,
+          "canonical_product": "royal caribbean cruises",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Royal Caribbean",
+          "price": "Manage your Royal Caribbean account, access bookings, and explore personalized cruise options for a seamless vacation ex...",
+          "link": "https://www.royalcaribbean.com/account/",
+          "price_numeric": null,
+          "canonical_product": "royal caribbean",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Caribbean Vacation Cruises | Royal Caribbean",
+          "price": "Plan your Caribbean vacation with Royal Caribbean and visit sun drenched islands, white sand beaches and vibrant coastal...",
+          "link": "https://www.royalcaribbean.com/caribbean-cruises",
+          "price_numeric": null,
+          "canonical_product": "caribbean vacation cruises | royal caribbean",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Best Cruise Ships: Discover Our Top Rated Ships | Royal Caribbean...",
+          "price": "Royal Caribbean Cruises offers adventure and relaxation for adults and kids onboard the biggest newest ships cruising to...",
+          "link": "https://www.royalcaribbean.com/cruise-ships",
+          "price_numeric": null,
+          "canonical_product": "best cruise ships: discover our top rated ships |",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "My Royal Cruise: Pre-Cruise Deals | Royal Caribbean Cruises",
+          "price": "Plan your cruise and book in advance to get exclusive deals on drink packages, onboard activities, and shore excursions....",
+          "link": "https://www.royalcaribbean.com/booked",
+          "price_numeric": null,
+          "canonical_product": "my royal cruise: pre-cruise deals | royal caribbea",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "CRUISES OUT OF TEXAS - Royal Caribbean Cruises",
+          "price": "Mar 13, 2026 \u00b7 Find getaway cruises out of Texas. Discover things to do before and after your cruise from TX to Mexico, ...",
+          "link": "https://www.royalcaribbean.com/texas-cruises",
+          "price_numeric": null,
+          "canonical_product": "cruises out of texas - royal caribbean cruises",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Cruises from Cape Liberty (New York), New Jersey | Royal...",
+          "price": "Find cruises from Cape Liberty (New York), New Jersey. Royal Caribbean guests can choose from multiple cruises out of Ca...",
+          "link": "https://www.royalcaribbean.com/cruise-from/new-york-new-jersey",
+          "price_numeric": null,
+          "canonical_product": "cruises from cape liberty (new york), new jersey |",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Check-in | Print Boarding Pass | Royal Caribbean Intl.",
+          "price": "Royal Caribbean offers check-in for all guests which must be completed before you board. Manage your reservation and pri...",
+          "link": "https://www.royalcaribbean.com/faq/topics/online-check-in-boarding",
+          "price_numeric": null,
+          "canonical_product": "check-in | print boarding pass | royal caribbean i",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Royal Caribbean",
+          "price": "Sign in to your Royal Caribbean account to manage bookings and reservations.",
+          "link": "https://www.stage2.royalcaribbean.com/account/signin",
+          "price_numeric": null,
+          "canonical_product": "royal caribbean",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Find a Cruise | Search the Best Cruises for 2026 & 2027",
+          "price": "Search for cruises with Royal Caribbean. Start planning your next cruise vacation by finding the best travel destination...",
+          "link": "https://www.royalcaribbean.com/cruises?country=USA",
+          "price_numeric": null,
+          "canonical_product": "find a cruise | search the best cruises for 2026 &",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        }
+      ]
     }
   ]
 }
