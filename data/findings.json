@@ -22173,6 +22173,122 @@
           "price_insight": null
         }
       ]
+    },
+    {
+      "run_id": "run_20260420_1324",
+      "run_date": "2026-04-20",
+      "findings": [
+        {
+          "store": "Amazon",
+          "product": "Amazon.com: Royal Canin Canned Cat Food",
+          "price": "Royal Canin Adult Feline Health Nutrition Instinctive Thin Slices in Gravy Canned Wet Cat Food, 3 oz can (24-count).",
+          "link": "https://www.amazon.com/royal-canin-canned-cat-food/s?k=royal+canin+canned+cat+food",
+          "price_numeric": null,
+          "canonical_product": "amazon.com: royal canin canned cat food",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "Chewy",
+          "product": "ROYAL CANIN Feline Health Nutrition Adult Instinctive... - Chewy.com",
+          "price": "Royal Canin Adult Instinctive Thin Slices in Gravy wet cat food is made with the balanced nutrition your pet needs for o...",
+          "link": "https://www.chewy.com/royal-canin-feline-health-nutrition/dp/29875",
+          "price_numeric": null,
+          "canonical_product": "royal canin feline health nutrition adult instinct",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Royal Canin Canned Cat Food for sale | eBay",
+          "price": "Find great deals on eBay for Royal Canin Canned Cat Food. Shop with confidence.",
+          "link": "https://www.ebay.ca/sch/i.html?_nkw=royal+canin+canned+cat+food",
+          "price_numeric": null,
+          "canonical_product": "royal canin canned cat food for sale | ebay",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Royal Canin Canned Cat",
+          "price": "Royal Canin Functional Support Wet Cat Food 6 Can Sampler (2) Each: Digest Sensitive, Aging 12+, Urinary Care+ MerlinsMa...",
+          "link": "https://www.walmart.com/c/kp/royal-canin-canned-cat",
+          "price_numeric": null,
+          "canonical_product": "royal canin canned cat",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Canned Cat Food \u2013 PetMax",
+          "price": "Royal Canin Canned Cat Food Adult Instinctive Thin Slices In Gravy.Sale. Almo Nature Complete Salmon With Apple - 70g - ...",
+          "link": "https://www.petmax.ca/collections/canned-cat-food",
+          "price_numeric": null,
+          "canonical_product": "canned cat food \u2013 petmax",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "Royal Canin",
+          "product": "Tailored Health Nutrition For Cats & Dogs | Royal Canin US",
+          "price": "Royal Canin specialises in highly tailored nutritional products for your cat or dog's needs. We make dry kibble, wet foo...",
+          "link": "https://www.royalcanin.com/us",
+          "price_numeric": null,
+          "canonical_product": "tailored health nutrition for cats & dogs | royal",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Royal Canin | J & J PET CLUB \u2013 J & J Pet Club",
+          "price": "Royal Canin Canned Cat Food - Mother & Babycat - Ultra Soft Mousse in Sauce.",
+          "link": "https://jjpetclub.com/collections/royal-canin",
+          "price_numeric": null,
+          "canonical_product": "royal canin | j & j pet club \u2013 j & j pet club",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "Royal Canin, Can, Kitten - Loaf In Sauce - 145 g - Wet Cat Food",
+          "price": "Royal Canin Kitten Loaf in Sauce Canned Cat Food comes in small, thin slices in gravy that are easy to feed and will pro...",
+          "link": "https://www.renspets.com/royal-canin-can-kitten---loaf-in-sauce---145-g---wet-cat-food-132452.html",
+          "price_numeric": null,
+          "canonical_product": "royal canin, can, kitten - loaf in sauce - 145 g -",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "See link",
+          "product": "The 30 Best Royal Canin Canned Cat Food of 2026 [Verified]...",
+          "price": "Here is a Top Rated Royal Canin Canned Cat Food list ranked by CherryPicks, Based on our unbiased evaluations of over 41...",
+          "link": "https://www.cherrypicksreviews.com/canned-cat-food/royal-canin",
+          "price_numeric": null,
+          "canonical_product": "the 30 best royal canin canned cat food of 2026 [v",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        },
+        {
+          "store": "Petco",
+          "product": "Royal Canin Feline Nutrition Hair & Skin Care Dry Cat Food... | Petco",
+          "price": "Royal Canin Hair & Skin Care Dry Adult Cat Food supports cats' sensitive skin and coat issues.Her skin and coat are have...",
+          "link": "https://www.petco.com/shop/en/petcostore/product/royal-canin-feline-nutrition-hair-and-skin-care-dry-cat-food",
+          "price_numeric": null,
+          "canonical_product": "royal canin feline nutrition hair & skin care dry",
+          "deal_score": null,
+          "price_anomaly": null,
+          "price_insight": null
+        }
+      ]
     }
   ]
 }
